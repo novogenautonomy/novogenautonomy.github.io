@@ -7,7 +7,7 @@ layout: default
 
 ### Content
 
-* Space Analysis
+* [Space Analysis](spaceAnalysis.md)
 * Weight Analysis
 * [Calculating](./calculating.md)
   * py program to calculate the required torque. [in progress]
