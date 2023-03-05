@@ -23,19 +23,18 @@ Industrial Electric Co, 2022).
 
 Both permanent magnet DC motors and permanent magnet synchronous motors (AC) are 
 - highly efficient but rely on rare earth metals to create the magnetic field. 
-- limited in torque to the strength of the magnets => more fit for small, light cars than big, heavy ones (The Engineering Post, 2022). 
+- limited in torque to the strength of the magnets => better fit for smaller cars (The Engineering Post, 2022). 
 - As for the magnets, research is being conducted to eventually replace the rare neodymium with
 ferritic materials, although these motors are not yet as power dense (Eriksson and Eklund, 2021).
 
 ##  **A brushed DC motor** 
-- is the (relatively) least efficient of the listed motors. 
-- It does however have a high starting torque, and the simple construction and infrastructure
-makes it an affordable and accessible option. 
-- It is how many DIY conversions start off (Maguire, 2018). 
-- It loses torque and efficiency at high speed, but if the gearbox is
-kept in place, the motor can be kept in a rpm range that is the most beneficial.
-- Allegedly, the heat created at the commutator can be a cause for concern, and
-should be monitored. These are rarely used in production vehicles.
+- (relatively) least efficient of the listed motors. 
+- has a high starting torque
+- its simple construction and infrastructure makes it an affordable and accessible option. 
+- many DIY conversions start off on them(Maguire, 2018). 
+- loses torque and efficiency at high speed, but if the gearbox is kept in place, the motor can operate in a rpm range that is the most beneficial.
+- Allegedly, the heat created at the commutator can be a cause for concern, and therefore should be monitored. 
+- are rarely used in production vehicles.
 
 ## **An AC induction motor** 
 - is widely used in commercial EVs as it is powerful, efficient,
