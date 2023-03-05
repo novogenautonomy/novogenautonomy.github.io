@@ -59,10 +59,9 @@ and Ulander, 2022).
 
 
 
+| [EV motors](./evEngine.md) | Converter / Inverter | [back](./)  |
+|:-------------|:------------------|:------|
 
-``
-[EV motors](./evEngine.md) ||  Converter / Inverter || [back](./) 
-``
 
 
 ## Sponsoring
