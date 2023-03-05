@@ -6,6 +6,8 @@ layout: default
    Technical Documentation of converting an ICE to an EV. 
 
 ### Content
+
+* Pulling the engine
 * [EV motors](./evEngine.md) 
 * [Batteries](./batteries.md) 
 * [Calculating](./calculating.md)
@@ -13,6 +15,11 @@ layout: default
 *  Converter / Inverter
 *  Controller
 *  BMS 
+* battery evaluation	
+* Space Analysis
+* Weight Analysis
+* Wiring	
+* Power Train Config	
 
 ***
 
