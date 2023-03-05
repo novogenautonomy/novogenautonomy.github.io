@@ -3,16 +3,12 @@ layout: default
 ---
 
 ### Nickel-cadmium batteries
-- were earlier used in electric vehicles as they are
-inexpensive, reliable, and have a long lifespan of around 500-1000 charging cycles
+- were earlier used in electric vehicles as they are inexpensive, reliable, and have a long lifespan of around 500-1000 charging cycles
 (Petrovich and Chesky, 2019). 
-- With a power density of 40-60 Wh/kg they have an
-advantage over lead-acid batteries but are inferior to other more modern battery
-types.
-- A disadvantage of these batteries is that they suffer from “memory effect” though
-where maximum storage capacity depletes due to crystallization if the batteries are
-not being charged properly. 
-- This battery type is now prohibited due to cadmium toxicity (Petrovich and Chesky, 2019).
+- With a power density of 40-60 Wh/kg they have an advantage over lead-acid batteries but are inferior to other more modern battery types.
+- Disadvantages: 
+ - they suffer from “memory effect” though where maximum storage capacity depletes due to crystallization if the batteries are not being charged properly. 
+ - now prohibited due to cadmium toxicity (Petrovich and Chesky, 2019).
 
 ### Nickel-metal hydride batteries
 - have a power density of 60-120 Wh/kg and a lifespan of 500-1000 charging cycles. 
@@ -31,20 +27,22 @@ not being charged properly.
 
 
 ## Better options
+
 ### Lithium-ion batteries 
-- are commonly used in EV today. There is a large variety of
-chemical compositions and properties of lithium ion batteries on the market
-depending on the manufacturer of the battery (Chian et al. 2019). Generally this
-battery type has a long life span of 400-1200 cycles and greater energy density than
-the other types with 100-265 Wh/kg. They also hold a quite consistent voltage over
-their discharging cycle (fig. 10). Lithium ion batteries are highly reactive and thus
-require suitable packaging and precise control of the recharging process (Petrovich
-and Chesky, 2019). These batteries have a high cost but are attractive in the market
-because of their high energy density
+- are commonly used in EV today. 
+- There is a large variety of chemical compositions and properties of lithium ion batteries on the market
+depending on the manufacturer of the battery (Chian et al. 2019). 
+- Generally has a long life span of 400-1200 cycles and greater energy density than
+the other types with 100-265 Wh/kg. 
+- hold a quite consistent voltage over their discharging cycle (fig. 10). 
+- are highly reactive and thus require suitable packaging and precise control of the recharging process (Petrovich
+and Chesky, 2019). 
+- high cost but also high energy density.
 
 ### Lead-acid batteries 
 - consist of sulfuric acid and water mixture acting as the
-electrolyte and an anode and cathode covered in lead. Common types of lead-acid
+electrolyte and an anode and cathode covered in lead. 
+- Common types of lead-acid
 batteries include flooded batteries, AGM (absorbent glass fiber) and gel batteries. In
 flooded lead batteries the electrolyte is its (high-density) liquid form which creates a
 risk for leakage. In AGM batteries glass fiber is soaked in the electrolyte eliminating
@@ -65,6 +63,10 @@ Wh/kg. Another disadvantage of lead-acid batteries is that they do not hold
 consistent voltage over the whole charging cycle making the motor less powerful as
 the battery discharges (Chian et al. 2019).
 
+### Summery
+- batteries need
+ - high charging cycles #
+ - 
 
 
 [EV motors](./evEngine.md) || [Battery in progress](./batteries.md) 
