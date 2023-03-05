@@ -7,7 +7,9 @@ for fixed mileage.
 BUT
 EVs are much heavier then ICE cars.
 
->> the more Batteries, the more range, the more weight
+``
+the more Batteries, the more range, the more weight
+``
 
 so when we talk about weight, we are actually talking about 
 Battery, battery management system and range calculation.
