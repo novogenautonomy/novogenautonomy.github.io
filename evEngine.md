@@ -44,3 +44,8 @@ like the permanent magnet motors, “maintenance free”.
 - The downside is that 
     - it requires an inverter circuit to turn the battery’s DC power to AC. 
     - It is also dependent on hall sensors and fine programming to run properly, increasing both complexity and cost to some degree.
+
+
+***
+
+[back](./)
