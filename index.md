@@ -26,13 +26,12 @@ Create a protoype which is based on lean protyping principles
 
 ### Phase 2. Scale it.
 
-Before running for the first time, go to the root directory of your site, and install dependencies as follows:
+For all in California.
 
 
 ### Phase 3. Scale it more.
 
-For all in California.
-
+For all in the US.
 
 ***
  [EV motors](./electric_motors.md) || [Battery in progress](./battery.md) 
@@ -42,5 +41,7 @@ For all in California.
 
 ## Sponsoring
 
-If you like this project or find it helpful, please consider sponsoring me, because it will encourage and help me better maintain the project! Any help is more than appreciated. 
+If you like this project or find it helpful, please consider sponsoring me, 
+because it will encourage and help me better maintain the project! 
+Any help is more than appreciated. 
 
