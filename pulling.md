@@ -21,3 +21,10 @@ layout: default
 7. label all the parts you take out 
     - document weight of each item
     - document resale value
+
+***
+
+|  |  |  |  |  |  |
+|:------:|:------:|:------:|:------:|:------:|:------:|
+| [EV motors](./evEngine.md) | Converter/Inverter | Calculating | Controller | BMS | [back](./) |
+| [battery evaluation](./batteryEval.md) | [Space Analysis] | [Weight Analysis] | Wiring | Power Train Config | Pulling the engine |
