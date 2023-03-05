@@ -60,7 +60,8 @@ and Ulander, 2022).
 
 
 | [EV motors](./evEngine.md) | Converter/Inverter | Calculating | Controller | BMS | [back](./) |
-
+|:-------------:|:-----------------:|:------:|:------:|:------:|:------:|
+|            |    |   |
 
 
 
