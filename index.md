@@ -7,19 +7,23 @@ layout: default
 
 ### Content
 
-* [Pulling the engine](./pulling.md) 
-* [EV motors](./evEngine.md) 
-* [Batteries](./batteries.md) 
-* [Calculating](./calculating.md)
-  * py program to calculate the required torque. [in progress]
-*  Converter / Inverter
-*  Controller
-*  BMS 
-* battery evaluation	
 * Space Analysis
 * Weight Analysis
-* Wiring	
+* [Pulling the engine](./pulling.md) 
 * Power Train Config	
+* [EV motors](./evEngine.md) 
+* [Batteries](./batteries.md)
+* battery evaluation	 
+* [Calculating](./calculating.md)
+  * py program to calculate the required torque. [in progress]
+* Wiring	
+* Converter / Inverter
+* Controller
+* BMS 
+
+
+
+
 
 ***
 
