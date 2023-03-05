@@ -36,16 +36,7 @@ Before running for the first time, go to the root directory of your site, and in
 
 For all in California.
 
-## Documentation
 
-For more details via the documentation.
-```protoying
-$ bundle
-```
-
-```console
-$ bundle exec jekyll s
-```
 
 ***
 
