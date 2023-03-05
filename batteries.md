@@ -7,8 +7,8 @@ layout: default
 (Petrovich and Chesky, 2019). 
 - With a power density of 40-60 Wh/kg they have an advantage over lead-acid batteries but are inferior to other more modern battery types.
 - Disadvantages: 
- * they suffer from “memory effect” though where maximum storage capacity depletes due to crystallization if the batteries are not being charged properly. 
- * now prohibited due to cadmium toxicity (Petrovich and Chesky, 2019).
+  - they suffer from “memory effect” though where maximum storage capacity depletes due to crystallization if the batteries are not being charged properly. 
+  - now prohibited due to cadmium toxicity (Petrovich and Chesky, 2019).
 
 ### Nickel-metal hydride batteries
 - have a power density of 60-120 Wh/kg and a lifespan of 500-1000 charging cycles. 
@@ -20,9 +20,10 @@ layout: default
 
 
 ### sodium-nickel-chloride batteries (ZEBRA batteries)
-- are molten salt batteries with a storage density of roughly 115 Wh/kg and a long lifespan of several thousand cycles.
+- are molten salt batteries with a storage density of roughly 115 Wh/kg 
+- a long lifespan of several thousand cycles.
 - Problematic is the required high operation temperature of around 300°C. 
-- Battery requires preheating after an EV is parked for extended periods of time (especially in cold weather). 
+- requires preheating after an EV is parked for extended periods of time (especially in cold weather). 
 - Therefore the battery is more suitable for EVs that are being used consistently (public transport) (Chian et al. 2019).
 
 
@@ -40,32 +41,28 @@ and Chesky, 2019).
 - high cost but also high energy density.
 
 ### Lead-acid batteries 
-- consist of sulfuric acid and water mixture acting as the
-electrolyte and an anode and cathode covered in lead. 
-- Common types of lead-acid
-batteries include flooded batteries, AGM (absorbent glass fiber) and gel batteries. In
-flooded lead batteries the electrolyte is its (high-density) liquid form which creates a
-risk for leakage. In AGM batteries glass fiber is soaked in the electrolyte eliminating
-the risk for leakage. These batteries are extremely resistant to vibration and
-maintenance free. Gel batteries are the most advanced type of lead-acid batteries
-with tolerance for high temperatures, shock, vibration and over discharging (Hoffman
+- consist of sulfuric acid and water mixture acting as the electrolyte and an anode and cathode covered in lead. 
+- Common types of lead-acid batteries include flooded batteries, AGM (absorbent glass fiber) and gel batteries. 
+  - In flooded lead batteries the electrolyte is its (high-density) liquid form which creates a
+risk for leakage. 
+  - In AGM batteries glass fiber is soaked in the electrolyte eliminating the risk for leakage. 
+    - extremely resistant to vibration and maintenance free. 
+  - Gel batteries are the most advanced type of lead-acid batteries with tolerance for high temperatures, shock, vibration and over discharging (Hoffman
 and Ulander, 2022).
-
-- are commonly used in ICE cars to power the starter, ignition
-system and other electrical components. A standard car battery has 12 Volts and
-consists of 6 cells with 2.1 Volts each. These batteries generally have a lifespan of
-400-600 charging cycles (Hoffman and Ulander, 2022).
-
-- Advantages of this battery type is that they are cheap, easy to produce and recycle,
-and do not need any monitoring (Petrovich, Chesky, 2019). They do however have a
-relatively small capacity with significant bulk and weight only providing around 35-40
-Wh/kg. Another disadvantage of lead-acid batteries is that they do not hold
-consistent voltage over the whole charging cycle making the motor less powerful as
-the battery discharges (Chian et al. 2019).
+- are commonly used in ICE cars to power the starter, ignition system and other electrical components. 
+- A standard car battery has 12 Volts and consists of 6 cells with 2.1 Volts each. 
+- These batteries generally have a lifespan of 400-600 charging cycles (Hoffman and Ulander, 2022).
+- Advantages 
+  - they are cheap, easy to produce and recycle,
+  - do not need any monitoring (Petrovich, Chesky, 2019). 
+- Disadvantage:
+  - relatively small capacity with significant bulk and weight only providing around 35-40 Wh/kg. 
+  - do not hold consistent voltage over the whole charging cycle making the motor less powerful as the battery discharges (Chian et al. 2019).
 
 ### Summery
 - batteries need
  - high charging cycles #
+ - don't discharge while parking
  - 
 
 
