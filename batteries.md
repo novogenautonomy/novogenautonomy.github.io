@@ -19,7 +19,7 @@ layout: default
   - They need precise control of the recharging process making their usage more complex than other batteries.
 
 
-### sodium-nickel-chloride batteries (ZEBRA batteries)
+### Sodium-nickel-chloride batteries (ZEBRA batteries)
 - are molten salt batteries with a storage density of roughly 115 Wh/kg 
 - a long lifespan of several thousand cycles.
 - Problematic is the required high operation temperature of around 300°C. 
