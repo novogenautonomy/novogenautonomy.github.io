@@ -60,6 +60,7 @@ and Chesky, 2019).
 |  |  |  |  |  |  |
 |:------:|:------:|:------:|:------:|:------:|:------:|
 | [EV motors](./evEngine.md) | Converter/Inverter | Calculating | Controller | BMS | [back](./) |
+| [battery evaluation](./batteryEval.md) | [Space Analysis] | [Weight Analysis] | Wiring | Power Train Config | Pulling the engine |
 
 
 
