@@ -71,11 +71,11 @@ Wh/kg. Another disadvantage of lead-acid batteries is that they do not hold
 consistent voltage over the whole charging cycle making the motor less powerful as
 the battery discharges (Chian et al. 2019).
 
-*** 
+
 
 [EV motors](./evEngine.md) || [Battery in progress](./batteries.md) 
 
-***
+
 
 ## Sponsoring
 
