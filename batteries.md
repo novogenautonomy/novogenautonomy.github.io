@@ -42,17 +42,14 @@ and Chesky, 2019).
 ### Lead-acid batteries 
 - consist of sulfuric acid and water mixture acting as the electrolyte and an anode and cathode covered in lead. 
 - Common types of lead-acid batteries include 
-  - **flooded lead batteries** 
-   - the electrolyte is its (high-density) liquid form which creates a risk for leakage.
-  - AGM (absorbent glass fiber)
-   - glass fiber is soaked in the electrolyte eliminating the risk for leakage. 
+  - **flooded lead batteries** => the electrolyte is its (high-density) liquid form which creates a risk for leakage.
+  - AGM (absorbent glass fiber)=> glass fiber is soaked in the electrolyte eliminating the risk for leakage. 
    - extremely resistant to vibration and maintenance free. 
-  - **Gel batteries** 
-   - are the most advanced type of lead-acid batteries with tolerance for high temperatures, shock, vibration and over discharging (Hoffman
+  - **Gel batteries** => are the most advanced type of lead-acid batteries with tolerance for high temperatures, shock, vibration and over discharging (Hoffman
 and Ulander, 2022).
-- are commonly used in ICE cars to power the starter, ignition system and other electrical components. 
+- are used in ICEs to power the starter, ignition system and other electrical components. 
 - A standard car battery has 12 Volts and consists of 6 cells with 2.1 Volts each. 
-- These batteries generally have a lifespan of 400-600 charging cycles (Hoffman and Ulander, 2022).
+- a lifespan of 400-600 charging cycles (Hoffman and Ulander, 2022).
 - Advantages: 
   - they are cheap, easy to produce and recycle,
   - do not need any monitoring (Petrovich, Chesky, 2019). 
