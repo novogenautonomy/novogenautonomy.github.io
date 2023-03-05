@@ -35,16 +35,21 @@ total 144 kg (316lbs)
 leaves 250 kg (550lbs) for battery
 
 ### Sedan
+
 | Model | year | engine seize |  engine weight | transmission | gas tank | total | 
 |:------:|:------:|:------:|:------:|:------:|:------:|
 |  |  |  |  |  |  |
+
 
 ### SUV
+
 | Model | year | engine seize |  engine weight | transmission | gas tank | total | 
 |:------:|:------:|:------:|:------:|:------:|:------:|
 |  |  |  |  |  |  |
 
+
 ### Truck
+
 | Model | year | engine seize |  engine weight | transmission | gas tank | total | 
 |:------:|:------:|:------:|:------:|:------:|:------:|
 | F150 | 2010 |  |  |  |  |
