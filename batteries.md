@@ -57,10 +57,9 @@ and Chesky, 2019).
   - do not hold consistent voltage over the whole charging cycle making the motor less powerful as the battery discharges (Chian et al. 2019).
 
 
-
-| [EV motors](./evEngine.md) | Converter/Inverter | Calculating | Controller | BMS | [back](./) |
+| Navigation |
 |:-------------:|:-----------------:|:------:|:------:|:------:|:------:|
-
+| [EV motors](./evEngine.md) | Converter/Inverter | Calculating | Controller | BMS | [back](./) |
 
 
 
