@@ -32,7 +32,7 @@ For all in California.
 For all in the US.
 
 ***
- [EV motors](./electric_motors.html) || [Battery in progress](./battery.md) 
+ [EV motors](././electric_motors.md) || [Battery in progress](./battery.md) 
  
 ***
 
