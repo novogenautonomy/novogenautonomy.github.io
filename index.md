@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<div align="center">
-
-  # Novo Gen Autonomy
-
-</div>
-
 ## Main ideas
 
 - being proactive
