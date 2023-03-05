@@ -2,122 +2,52 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<div align="center">
 
-[Link to another page](./another-page.html).
+  # Novo Gen Autonomy
 
-There should be whitespace between paragraphs.
+</div>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Main ideas
 
-# Header 1
+- being proactive
+- using what is available now
+- via iterations develop towards the ideal solution in a pragmatic way
+- efficiency
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Purpose
+To make it reasonable and affordable to own an Electric Vehicle (EV) before 2035 with Ford !
 
-## Header 2
+California will ban the sale of all gas-powered vehicles starting 2035. 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Till 2035 we utilize the window of opportunity “brand impetus for rapid change” for Consumers.
 
-### Header 3
+## Solution
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+We provide solutions for ICE owners to own an electric vehicle at lower cost.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Phase 1. Creating a protoype
 
-#### Header 4
+Create a protoype which is based on lean protyping principles
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Phase 2. Scale it.
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Before running for the first time, go to the root directory of your site, and install dependencies as follows:
 
 
-### Definition lists can be used with HTML syntax.
+### Phase 3. Scale it more.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+For all in California.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+
+***
+
+> [EV motors](./electric_motors.md) || [Battery](./battery.md) 
+
+***
+
+## Sponsoring
+
+If you like this project or find it helpful, please consider sponsoring me, because it will encourage and help me better maintain the project! Any help is more than appreciated. 
+
