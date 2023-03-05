@@ -40,12 +40,10 @@ Before running for the first time, go to the root directory of your site, and in
 For all in California.
 
 
-
+***
+ [EV motors](./electric_motors.md) || [Battery](./battery.md) 
 ***
 
-> [EV motors](./electric_motors.md) || [Battery](./battery.md) 
-
-***
 
 ## Sponsoring
 
