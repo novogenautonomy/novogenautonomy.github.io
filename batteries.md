@@ -57,14 +57,10 @@ and Ulander, 2022).
   - relatively small capacity with significant bulk and weight only providing around 35-40 Wh/kg. 
   - do not hold consistent voltage over the whole charging cycle making the motor less powerful as the battery discharges (Chian et al. 2019).
 
-### Summery
-- batteries need
- - high charging cycles #
- - don't discharge while parking
- - 
 
 
-[EV motors](./evEngine.md) || [Battery in progress](./batteries.md) 
+
+> [EV motors](./evEngine.md) || [back](./) 
 
 
 
