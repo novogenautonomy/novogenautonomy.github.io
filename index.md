@@ -7,7 +7,9 @@ Technical Documentation of converting an ICE to an EV.
 
 ## Content
 * [EV motors](./evEngine.md) 
-* [Battery in progress](./battery.md) 
+* [Batteries](./batteries.md) 
+* [Calculating](./calculating.md)
+  * py program to calculate the required torque. [in progress]
  
 ***
 
