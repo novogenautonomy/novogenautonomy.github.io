@@ -44,6 +44,12 @@ For all in California.
 
 ***
 
+|  |  |  |  |  |  |
+|:------:|:------:|:------:|:------:|:------:|:------:|
+| [EV motors](./evEngine.md) | Converter/Inverter | Calculating | Controller | BMS | [back](./) |
+| [battery evaluation](./batteryEval.md) | [Space Analysis] | [Weight Analysis] | Wiring | Power Train Config | Pulling the engine |
+
+
 ## Sponsoring
 
 If you like this project or find it helpful, please consider sponsoring me, because it will encourage and help me better maintain the project! Any help is more than appreciated. 
