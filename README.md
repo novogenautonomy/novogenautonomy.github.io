@@ -13,8 +13,10 @@
 - efficiency
 
 ## Purpose
-Fact: California will ban the sale of all gas-powered vehicles starting 2035. 
+Fact: California will ban the sale of all gas-powered vehicles starting 2035.
+
 Action: To make it reasonable and affordable to own an Electric Vehicle (EV) before 2035 with Ford!
+
 Till 2035 we utilize the window of opportunity “brand impetus for rapid change” for Consumers.
 
 ## Solution
