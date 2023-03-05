@@ -13,10 +13,8 @@
 - efficiency
 
 ## Purpose
-To make it reasonable and affordable to own an Electric Vehicle (EV) before 2035 with Ford !
-
-California will ban the sale of all gas-powered vehicles starting 2035. 
-
+Fact: California will ban the sale of all gas-powered vehicles starting 2035. 
+Action: To make it reasonable and affordable to own an Electric Vehicle (EV) before 2035 with Ford!
 Till 2035 we utilize the window of opportunity “brand impetus for rapid change” for Consumers.
 
 ## Solution
@@ -28,13 +26,12 @@ We provide solutions for ICE owners to own an electric vehicle at lower cost.
 Create a protoype which is based on lean protyping principles
 
 ### Phase 2. Scale it.
-
-Before running for the first time, go to the root directory of your site, and install dependencies as follows:
+For all in California.
 
 
 ### Phase 3. Scale it more.
+Entire US.
 
-For all in California.
 
 
 
