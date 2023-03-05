@@ -17,23 +17,17 @@ not being charged properly.
 ### Nickel-metal hydride batteries
 - have a power density of 60-120 Wh/kg and a lifespan of 500-1000 charging cycles. 
 - are more expensive than nickel-cadmium batteries but still rather affordable. 
-- are suitable for use in electric vehicles as they are reliable and have a large range of operating temperatures and were frequently used in electric vehicles until the breakthrough of the lithium ion battery
-(Petrovich and Chesky, 2019).
-- Disadvantages of this battery type include that they self discharge quickly which can
-be an issue if the vehicle is parked for a prolonged period of time. They need precise
-control of the recharging process making their usage more complex than other
-batteries.
+- are suitable for use in electric vehicles as they are reliable and have a large range of operating temperatures and were frequently used in electric vehicles until the breakthrough of the lithium ion battery (Petrovich and Chesky, 2019).
+- Disadvantages: 
+  - self discharge quickly which can be an issue if the vehicle is parked for a prolonged period of time. 
+  - They need precise control of the recharging process making their usage more complex than other batteries.
 
 
 ### sodium-nickel-chloride batteries (ZEBRA batteries)
 - are molten salt batteries with a storage density of roughly 115 Wh/kg and a long lifespan of several thousand cycles.
-- Problematic with this battery type is the high operation temperature of around 300°C
-that is required. The battery therefore requires preheating prior to usage after an EV
-is parked for extended periods of time (especially in cold weather) which is energy
-consuming. Therefore the ZEBRA battery is more suitable for EVs that are being
-used consistently, for example in public transport, and rather inappropriate for daily
-commuting (Chian et al. 2019).
-
+- Problematic is the required high operation temperature of around 300°C. 
+- Battery requires preheating after an EV is parked for extended periods of time (especially in cold weather). 
+- Therefore the battery is more suitable for EVs that are being used consistently (public transport) (Chian et al. 2019).
 
 
 ## Better options
