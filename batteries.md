@@ -7,8 +7,8 @@ layout: default
 (Petrovich and Chesky, 2019). 
 - With a power density of 40-60 Wh/kg they have an advantage over lead-acid batteries but are inferior to other more modern battery types.
 - Disadvantages: 
- - they suffer from “memory effect” though where maximum storage capacity depletes due to crystallization if the batteries are not being charged properly. 
- - now prohibited due to cadmium toxicity (Petrovich and Chesky, 2019).
+ * they suffer from “memory effect” though where maximum storage capacity depletes due to crystallization if the batteries are not being charged properly. 
+ * now prohibited due to cadmium toxicity (Petrovich and Chesky, 2019).
 
 ### Nickel-metal hydride batteries
 - have a power density of 60-120 Wh/kg and a lifespan of 500-1000 charging cycles. 
