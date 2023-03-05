@@ -8,10 +8,10 @@ BUT
 EVs are much heavier then ICE cars.
 
 ``
-the more Batteries, the more range, the more weight
+  the more Batteries, the more range, but also more weight.
 ``
 
-so when we talk about weight, we are actually talking about 
+So when we talk about weight, we are actually talking about 
 Battery, battery management system and range calculation.
 
 => goal not to exceed the original overall vehicle weight
@@ -36,6 +36,8 @@ how much you can put back in
 total 144 kg (316lbs)
 leaves 250 kg (550lbs) for battery
 
+in an excel sheet: 
+
 ### Sedan
 
 | Model | year | engine seize |  engine weight | transmission | gas tank | total | 
@@ -57,3 +59,15 @@ leaves 250 kg (550lbs) for battery
 | F150 | 2010 |  |  |  |  | |
 | F250 | 2010 |  |  |  |  | |
 
+
+***
+
+[EV motors](./evEngine.md) || [Battery in progress](./batteries.md) 
+
+***
+
+## Sponsoring
+
+If you like this project or find it helpful, please consider sponsoring, <br>
+because it will encourage and help me better maintain the project! <br>
+Any help is more than appreciated. 
