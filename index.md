@@ -9,13 +9,15 @@ layout: default
 
 * Space Analysis
 * Weight Analysis
+* [Calculating](./calculating.md)
+  * py program to calculate the required torque. [in progress]
+
 * [Pulling the engine](./pulling.md) 
 * Power Train Config	
 * [EV motors](./evEngine.md) 
 * [Batteries](./batteries.md)
 * battery evaluation	 
-* [Calculating](./calculating.md)
-  * py program to calculate the required torque. [in progress]
+
 * Wiring	
 * Converter / Inverter
 * Controller
