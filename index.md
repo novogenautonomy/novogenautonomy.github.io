@@ -35,7 +35,8 @@ For all in California.
 
 
 ***
- [EV motors](./electric_motors.md) || [Battery](./battery.md) 
+ [EV motors](./electric_motors.md) || [Battery in progress](./battery.md) 
+ 
 ***
 
 
