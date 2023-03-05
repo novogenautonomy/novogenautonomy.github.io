@@ -39,7 +39,7 @@ For all in the US.
 
 ## Sponsoring
 
-If you like this project or find it helpful, please consider sponsoring me, 
-because it will encourage and help me better maintain the project! 
+If you like this project or find it helpful, please consider sponsoring me, <br>
+because it will encourage and help me better maintain the project! <br>
 Any help is more than appreciated. 
 
