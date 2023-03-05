@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## Purpose
-Technical Documentation of converting an ICE to an EV. 
+   Technical Documentation of converting an ICE to an EV. 
 
-## Content
+### Content
 * [EV motors](./evEngine.md) 
 * [Batteries](./batteries.md) 
 * [Calculating](./calculating.md)
