@@ -6,7 +6,7 @@ layout: default
 Technical Documentation of converting an ICE to an EV. 
 
 ## Content
-* [EV motors](././electric_motors.md) 
+* [EV motors](././evEngine.md) 
 * [Battery in progress](./battery.md) 
  
 ***
