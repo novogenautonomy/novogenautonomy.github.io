@@ -60,12 +60,11 @@ and Chesky, 2019).
 
 | [EV motors](./evEngine.md) | Converter/Inverter | Calculating | Controller | BMS | [back](./) |
 |:-------------:|:-----------------:|:------:|:------:|:------:|:------:|
-|            |    |   |
+
 
 
 
 #### Sponsoring
-
 If you like this project or find it helpful, please consider sponsoring, <br>
 because it will encourage and help me better maintain the project! <br>
 Any help is more than appreciated. 
