@@ -33,26 +33,27 @@ layout: default
 - are commonly used in EV today. 
 - There is a large variety of chemical compositions and properties of lithium ion batteries on the market
 depending on the manufacturer of the battery (Chian et al. 2019). 
-- Generally has a long life span of 400-1200 cycles and greater energy density than
-the other types with 100-265 Wh/kg. 
-- hold a quite consistent voltage over their discharging cycle (fig. 10). 
+- Generally has a long life span of 400-1200 cycles 
+- greater energy density than the other types with 100-265 Wh/kg (high energy density comes with high cost). 
+- hold a quite consistent voltage over their discharging cycle. 
 - are highly reactive and thus require suitable packaging and precise control of the recharging process (Petrovich
 and Chesky, 2019). 
-- high cost but also high energy density.
 
 ### Lead-acid batteries 
 - consist of sulfuric acid and water mixture acting as the electrolyte and an anode and cathode covered in lead. 
-- Common types of lead-acid batteries include flooded batteries, AGM (absorbent glass fiber) and gel batteries. 
-  - In flooded lead batteries the electrolyte is its (high-density) liquid form which creates a
-risk for leakage. 
-  - In AGM batteries glass fiber is soaked in the electrolyte eliminating the risk for leakage. 
-    - extremely resistant to vibration and maintenance free. 
-  - Gel batteries are the most advanced type of lead-acid batteries with tolerance for high temperatures, shock, vibration and over discharging (Hoffman
+- Common types of lead-acid batteries include 
+  - **flooded lead batteries** 
+   - the electrolyte is its (high-density) liquid form which creates a risk for leakage.
+  - AGM (absorbent glass fiber)
+   - glass fiber is soaked in the electrolyte eliminating the risk for leakage. 
+   - extremely resistant to vibration and maintenance free. 
+  - **Gel batteries** 
+   - are the most advanced type of lead-acid batteries with tolerance for high temperatures, shock, vibration and over discharging (Hoffman
 and Ulander, 2022).
 - are commonly used in ICE cars to power the starter, ignition system and other electrical components. 
 - A standard car battery has 12 Volts and consists of 6 cells with 2.1 Volts each. 
 - These batteries generally have a lifespan of 400-600 charging cycles (Hoffman and Ulander, 2022).
-- Advantages 
+- Advantages: 
   - they are cheap, easy to produce and recycle,
   - do not need any monitoring (Petrovich, Chesky, 2019). 
 - Disadvantage:
