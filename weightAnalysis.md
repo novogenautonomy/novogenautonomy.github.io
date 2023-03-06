@@ -37,27 +37,9 @@ total 144 kg (316lbs)
 leaves 250 kg (550lbs) for battery
 
 in an excel sheet: 
-
-### Sedan
-
-| Model | year | engine seize |  engine weight | transmission | gas tank | total | 
-|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-|  |  |  |  |  |  | |
-
-
-### SUV
-
-| Model | year | engine seize |  engine weight | transmission | gas tank | total | 
-|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-|  |  |  |  |  |  | |
-
-
-### Truck
-
-| Model | year | engine seize |  engine weight | transmission | gas tank | total | 
-|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| F150 | 2010 |  |  |  |  | |
-| F250 | 2010 |  |  |  |  | |
+- Sedan
+- SUV
+- Truck
 
 
 ***
