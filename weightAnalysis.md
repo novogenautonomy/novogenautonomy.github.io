@@ -44,7 +44,10 @@ in an excel sheet:
 
 ***
 
-[EV motors](./evEngine.md) || [Battery in progress](./batteries.md) 
+|  |  |  |  |  |  |
+|:------:|:------:|:------:|:------:|:------:|:------:|
+| [EV motors](./evEngine.md) | Converter/Inverter | Calculating | Controller | BMS | [back](./) |
+| [battery evaluation](./batteryEval.md) | [Space Analysis] | [Weight Analysis] | Wiring | Power Train Config | Pulling the engine |
 
 ***
 
